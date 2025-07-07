@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,1200.0
+102,Smartphone,Electronics,800.0
+103,Desk Chair,Furniture,150.0
+104,Pen Set,Stationery,25.0
+105,Coffee Maker,Appliances,90.0
+106,Monitor,Electronics,300.0
+107,Keyboard,Electronics,45.0
+108,Notebook,Stationery,10.0
+109,Desk,Furniture,200.0
+110,Water Bottle,Appliances,15.0
